@@ -1,1 +1,1 @@
- Mamadaliev ilyas Rushanovich
+ Mamadaliev Ilyas Rushanovich
