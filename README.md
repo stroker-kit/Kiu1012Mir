@@ -1,2 +1,0 @@
- Mamadaliev Ilyas Rushanovich
-ss
