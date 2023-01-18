@@ -45,7 +45,7 @@ def main():
 
 
         window = tk.Tk()
-        window.geometry("270x230")
+        window.geometry("230x270")
         window.title("Калькулятор")
         calc=tk.Entry(window,justify=RIGHT)
         calc.grid(row=0,column=1,columnspan=4)
